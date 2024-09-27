@@ -12,3 +12,6 @@ In this project, I developed a web scraper to extract product data from Flipkart
 - **Data Storage and Analysis**: The extracted data was stored in an Excel file using Pandas for easy analysis. Pandas' DataFrame allowed for further manipulation and exploration of the data for any required insights.
 
 The Flipkart Data Extractor is a robust solution for real-time product data extraction, enabling detailed analysis and further processing of e-commerce data.
+
+
+                                                                                 © Ayan Ahmed Khan
